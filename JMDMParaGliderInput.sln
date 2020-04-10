@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMDMParaInputInterface", "JMDMParaInputInterface\JMDMParaInputInterface.csproj", "{CD299554-5D7C-4EE8-9417-6B57A35A9671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMDMParaGliderInput", "JMDMParaGliderInput\JMDMParaGliderInput.csproj", "{F785E90C-CAC9-4A4E-88A6-D15DA5356E19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMDMParaGameUDPInterface", "JMDMParaGameUDPInterface\JMDMParaGameUDPInterface.csproj", "{6D05D57D-F7FE-437D-B3FF-24EAD1FCC7D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMDMGameUDPInterface", "JMDMGameUDPInterface\JMDMGameUDPInterface.csproj", "{F86F2837-718B-416B-84FF-6F1B5C3FF1E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD299554-5D7C-4EE8-9417-6B57A35A9671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD299554-5D7C-4EE8-9417-6B57A35A9671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD299554-5D7C-4EE8-9417-6B57A35A9671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD299554-5D7C-4EE8-9417-6B57A35A9671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F785E90C-CAC9-4A4E-88A6-D15DA5356E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F785E90C-CAC9-4A4E-88A6-D15DA5356E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F785E90C-CAC9-4A4E-88A6-D15DA5356E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F785E90C-CAC9-4A4E-88A6-D15DA5356E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D05D57D-F7FE-437D-B3FF-24EAD1FCC7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D05D57D-F7FE-437D-B3FF-24EAD1FCC7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D05D57D-F7FE-437D-B3FF-24EAD1FCC7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D05D57D-F7FE-437D-B3FF-24EAD1FCC7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F86F2837-718B-416B-84FF-6F1B5C3FF1E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86F2837-718B-416B-84FF-6F1B5C3FF1E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86F2837-718B-416B-84FF-6F1B5C3FF1E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86F2837-718B-416B-84FF-6F1B5C3FF1E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {574F10EB-40FB-4B6C-8398-704C26CB3949}
+	EndGlobalSection
+EndGlobal

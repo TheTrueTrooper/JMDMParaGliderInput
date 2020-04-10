@@ -1,0 +1,16 @@
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMParaGameUDPInterface\bin\Debug\JMDMParaGameUDPInterface.dll
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMParaGameUDPInterface\bin\Debug\JMDMParaGameUDPInterface.pdb
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMParaGameUDPInterface\bin\Debug\JMDMGameUDPInterface.dll
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMParaGameUDPInterface\bin\Debug\JMDMGameUDPInterface.pdb
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMParaGameUDPInterface\obj\Debug\JMDMParaGameUDPInterface.csprojAssemblyReference.cache
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMParaGameUDPInterface\obj\Debug\JMDMParaGameUDPInterface.csproj.CopyComplete
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMParaGameUDPInterface\obj\Debug\JMDMParaGameUDPInterface.dll
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMParaGameUDPInterface\obj\Debug\JMDMParaGameUDPInterface.pdb
+C:\Users\sovie\source\repos\JMDMParaGliderInput\JMDMParaGameUDPInterface\bin\Debug\JMDMParaGameUDPInterface.dll
+C:\Users\sovie\source\repos\JMDMParaGliderInput\JMDMParaGameUDPInterface\bin\Debug\JMDMParaGameUDPInterface.pdb
+C:\Users\sovie\source\repos\JMDMParaGliderInput\JMDMParaGameUDPInterface\bin\Debug\JMDMGameUDPInterface.dll
+C:\Users\sovie\source\repos\JMDMParaGliderInput\JMDMParaGameUDPInterface\bin\Debug\JMDMGameUDPInterface.pdb
+C:\Users\sovie\source\repos\JMDMParaGliderInput\JMDMParaGameUDPInterface\obj\Debug\JMDMParaGameUDPInterface.csprojAssemblyReference.cache
+C:\Users\sovie\source\repos\JMDMParaGliderInput\JMDMParaGameUDPInterface\obj\Debug\JMDMParaGameUDPInterface.csproj.CopyComplete
+C:\Users\sovie\source\repos\JMDMParaGliderInput\JMDMParaGameUDPInterface\obj\Debug\JMDMParaGameUDPInterface.dll
+C:\Users\sovie\source\repos\JMDMParaGliderInput\JMDMParaGameUDPInterface\obj\Debug\JMDMParaGameUDPInterface.pdb

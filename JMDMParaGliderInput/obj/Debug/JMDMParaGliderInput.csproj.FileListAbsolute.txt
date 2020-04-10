@@ -1,0 +1,5 @@
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMParaGliderInput\bin\Debug\JMDMParaGliderInput.dll
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMParaGliderInput\bin\Debug\JMDMParaGliderInput.pdb
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMParaGliderInput\obj\Debug\JMDMParaGliderInput.csprojAssemblyReference.cache
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMParaGliderInput\obj\Debug\JMDMParaGliderInput.dll
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMParaGliderInput\obj\Debug\JMDMParaGliderInput.pdb
